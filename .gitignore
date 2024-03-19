@@ -1,12 +1,13 @@
 HELP.md
 mvnw
 mvnw.cmd
+doc-to-json-conversion.iml
 .mvn
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
-doc-to-json-conversion.iml
+
 
 ### STS ###
 .apt_generated
